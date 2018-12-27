@@ -1,0 +1,26 @@
+@import "../../styles/variables.css";
+
+.container {
+  padding: var(--container-padding);
+}
+
+.content {
+  font-size: var(--font-size-content);
+}
+
+.table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 1px solid var(--table-border-clr);
+}
+
+.tr {
+  height: 30px;
+  border-bottom: 1px solid var(--table-border-clr);
+}
+
+.td, .th {
+  text-align: center;
+  padding: 0 12px;
+  border-left: 1px solid var(--table-border-clr);
+}

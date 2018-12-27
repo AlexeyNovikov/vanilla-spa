@@ -1,0 +1,10 @@
+:root {
+  --white: #fff;
+  --black: #000;
+  --border-clr: blue;
+  --table-border-clr: rgba(100, 100, 100, 0.2);
+
+  --font-size-content: 1.25rem;
+
+  --container-padding: 20px;
+}

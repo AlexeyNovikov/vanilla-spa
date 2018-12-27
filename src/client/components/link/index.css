@@ -1,0 +1,9 @@
+@import "../../styles/variables.css";
+
+.button {
+  padding: 6px 12px;
+  border: 1px solid var(--border-clr);
+  background-color: var(--white);
+  cursor: pointer;
+  font-size: 16px;
+}

@@ -1,0 +1,11 @@
+@import "../../styles/variables.css";
+
+.container {
+  padding: var(--container-padding);
+}
+
+.page {}
+
+.content {
+  font-size: var(--font-size-content);
+}
